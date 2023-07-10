@@ -1,3 +1,4 @@
+/*Css para decoraçao do Menu Cafe.*/
 body {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
     font-family: sans-serif;
@@ -5,11 +6,12 @@ body {
   
   h1 {
     font-size: 40px;
-    clip: auto;
+    color: blue;
   }
   
   h2 {
     font-size: 30px;
+    color: brown;
   }
   
   .established {
